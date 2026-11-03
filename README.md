@@ -16,7 +16,7 @@ Provides comprehensive Docker reference documentation and a helper script for qu
 ```bash
 clawhub install docker-skill
 # or:
-git clone https://github.com/RuneweaverStudios/docker-skill.git
+git clone https://github.com/austindixson/docker-skill.git
 cp -r docker-skill ~/.openclaw/workspace/skills/
 ```
 
