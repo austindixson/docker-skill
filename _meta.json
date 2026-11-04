@@ -4,7 +4,7 @@
   "version": "1.1.0",
   "displayName": "Docker",
   "description": "Docker reference and helper utilities. Check daemon status, list containers, show running services, and access comprehensive Docker CLI/Dockerfile documentation.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "tags": [
     "docker",
     "containerization",
